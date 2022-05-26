@@ -1,0 +1,9 @@
+# dependencies
+/angular11/node_modules
+/angular12/node_modules
+/angular13/node_modules
+
+# prod
+/angular11/dist
+/angular12/dist
+/angular13/dist
